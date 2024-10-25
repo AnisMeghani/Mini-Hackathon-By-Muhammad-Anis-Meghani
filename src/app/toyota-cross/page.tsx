@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function ToyotaCross(){
     return(
         <div className="flex justify-center">
-          <div className=" w-8/12 h-96 text-center">{/**flex center columns 8 out of 12 used */}
+          <div className=" w-8/12 h-96 text-center">{/*flex center columns 8 out of 12 used */}
           <header>
                 <h1 className="underline font-bold text-2xl text-center mt-8">Toyota Cross 2024 Price in Pakistan, 
                   Images, Reviews & Specs</h1>
@@ -22,7 +22,7 @@ export default function ToyotaCross(){
           
           <p className="flex justify-center text-xs text-center mt-5">The **Toyota Cross** is a compact SUV known for 
             its versatility, comfort, and fuel efficiency. Designed for both city driving and off-road adventures, 
-            it combines Toyota's renowned reliability with a spacious interior, advanced safety features, and modern 
+            it combines Toyota&apos;s renowned reliability with a spacious interior, advanced safety features, and modern 
             technology. With its stylish design, hybrid powertrain options, and smooth ride, the Toyota Cross offers 
             a balanced mix of practicality and performance, making it a great choice for families and urban explorers 
             alike.</p>{/*Discription */}
